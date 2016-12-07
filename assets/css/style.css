@@ -248,8 +248,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header.scrolled {
-  opacity: 0;
-  transition: all 1s ease;
+  opacity: .2;
+  transition: all 3s ease;
+}
+
+header.scrolled2 {
+  opacity: 1;
+  transition: all 3s ease;
 }
 	
 /* Gallery */

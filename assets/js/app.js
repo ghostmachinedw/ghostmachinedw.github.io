@@ -3,7 +3,8 @@ $(document).ready(function() {
     if ($(window).scrollTop() > 50) {
       $('header').addClass('scrolled');
     } else {
-      $('header').removeClass('scrolled');
+      // $('header').removeClass('scrolled');
+	  $('header').addClass('scrolled2');
     };
   });
 });
