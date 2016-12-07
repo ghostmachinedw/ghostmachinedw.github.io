@@ -290,6 +290,7 @@ textarea {
 a {
   color: #428bca;
   text-decoration: none;
+  transition-duration: 1s;
 }
 a:hover,
 a:focus {
