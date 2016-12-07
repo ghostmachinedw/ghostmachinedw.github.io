@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 26.4px;
 }
 
-#headerwrap.scrolled {
+.scrolltransition {
   opacity: 0;
   transition: all 1s ease;
 }
