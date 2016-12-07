@@ -247,12 +247,12 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 26.4px;
 }
 
-header.scrolled {
+header.static {
   opacity: .2;
   transition: all 3s ease;
 }
 
-header.scrolled2 {
+header.scrolled {
   opacity: 1;
   transition: all 3s ease;
 }
