@@ -259,6 +259,7 @@ header.scrolled {
 
 .whitetext {
   color: white;
+  line-height: 3em;
 }
 
 /* Gallery */
