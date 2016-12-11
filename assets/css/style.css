@@ -247,6 +247,16 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 26.4px;
 }
 
+.fontheader4
+{
+	font-family: "Taviraj";
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
 header.static {
   opacity: .2;
   transition: all 4s ease;
