@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
 .fontheader
 {
 	font-family: "Amatic SC";
-	font-size: 24px;
+	font-size: 75px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
@@ -249,18 +249,40 @@ h1, h2, h3, h4, h5, h6 {
 
 header.static {
   opacity: .2;
-  transition: all 3s ease;
+  transition: all 4s ease;
 }
 
 header.scrolled {
   opacity: 1;
-  transition: all 3s ease;
+  transition: all 4s ease;
 }
 
 .whitetext {
   color: white;
-  line-height: 3em;
+}
+
+.leftalign {
+  padding-top: 25px;
+  line-height: 2em;
   text-align: left;
+}
+
+.padding {
+    padding-top: 100px;
+}
+
+.parallax { 
+    /* The image used */
+    background-image: url(../img/gmlogobg.png);
+
+    /* Set a specific height */
+    height: 1000px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Gallery */
