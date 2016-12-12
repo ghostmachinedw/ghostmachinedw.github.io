@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .fontheader3
 {
-	font-family: "Varela Round";
+	font-family: "Droid Serif";
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
@@ -250,11 +250,11 @@ h1, h2, h3, h4, h5, h6 {
 .fontheader4
 {
 	font-family: "Taviraj";
-	font-size: 20px;
+	font-size: 22px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 26.4px;
+	line-height: 12px;
 }
 
 header.static {
